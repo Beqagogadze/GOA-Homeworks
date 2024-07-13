@@ -1,5 +1,0 @@
-name = input("please etner your name : ")
-lastname = input("please enter your lastname: ")
-gmail = input("please enter your gmail: ")
-password = input("please etner your password : ")
-print(name + " " +lastname + " " + gmail + " " + password )
